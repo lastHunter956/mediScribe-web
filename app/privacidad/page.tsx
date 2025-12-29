@@ -70,7 +70,7 @@ export default function PrivacidadPage() {
 
               <h3 className="text-xl font-semibold text-slate-800 pt-4">2.2 Datos de Uso del Servicio</h3>
               <ul className="list-disc pl-6 space-y-2">
-                <li><strong>Grabaciones de audio:</strong> Las lecturas de radiografías que usted envía para procesar</li>
+                <li><strong>Grabaciones de audio:</strong> Los dictados de lectura radiográfica que usted envía para procesar</li>
                 <li><strong>Informes generados:</strong> Los documentos médicos creados por la inteligencia artificial</li>
               </ul>
             </section>

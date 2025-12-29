@@ -6,9 +6,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 const features = [
   {
     icon: Scan,
-    title: "Análisis de Imágenes",
+    title: "Dictado de Lectura Radiográfica",
     description:
-      "Procesa radiografías, TACs y resonancias con precisión líder en la industria del 80.5%.",
+      "Convierte tu dictado de lectura radiológica o su transcripción en informes médicos estructurados con IA.",
   },
   {
     icon: Brain,
@@ -23,8 +23,8 @@ const features = [
 
   {
     icon: Globe2,
-    title: "Multimodalidad",
-    description: "Compatible con rayos X, tomografías, resonancias y más modalidades de imagen.",
+    title: "Flexible y Adaptable",
+    description: "Funciona con audio o texto de lectura radiográfica, adaptándose a tu flujo de trabajo.",
   },
   {
     icon: FileCheck,

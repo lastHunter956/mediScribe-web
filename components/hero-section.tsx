@@ -59,10 +59,7 @@ export function HeroSection() {
                 <span className="text-slate-400">Reinventada.</span>
               </h1>
               <p className="text-lg sm:text-xl lg:text-xl text-slate-600 leading-relaxed max-w-xl mx-auto lg:mx-0">
-                Transforma lecturas de radiografías en informes médicos completos{" "}
-                <span className="font-semibold text-slate-800">en segundos</span>. Con{" "}
-                <span className="inline-flex items-center gap-1 font-bold text-[#FF7F4A]">80.5%</span> de precisión
-                y en constante evolución.
+                Transforma <span className="font-semibold text-slate-800">dictados de lectura radiográfica</span> o <span className="font-semibold text-slate-800">transcripciones de lectura de radiografía</span> en informes médicos completos <span className="font-semibold text-slate-800">en segundos</span>. Con <span className="inline-flex items-center gap-1 font-bold text-[#FF7F4A]">80.5%</span> de precisión y en constante evolución.
               </p>
             </div>
 

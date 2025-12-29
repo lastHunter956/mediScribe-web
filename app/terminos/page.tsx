@@ -57,7 +57,7 @@ export default function TerminosPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-slate-900 pt-6">2. Descripción del Servicio</h2>
               <p>
-                MediScribe AI es una aplicación de pago que utiliza inteligencia artificial para transformar lecturas de radiografías en informes médicos estructurados. El servicio está diseñado exclusivamente para asistir a profesionales de la salud en su labor de documentación radiológica.
+                MediScribe AI es una aplicación de pago que utiliza inteligencia artificial para transformar dictados de lectura radiográfica o transcripciones de lectura de radiografía en informes médicos estructurados. El servicio está diseñado exclusivamente para asistir a profesionales de la salud en su labor de documentación radiológica.
               </p>
             </section>
 
@@ -113,7 +113,7 @@ export default function TerminosPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-slate-900 pt-6">6. Propiedad Intelectual</h2>
               <p>
-                <strong>Sus contenidos:</strong> Usted conserva todos los derechos de propiedad sobre las radiografías, imágenes médicas e informes que genera utilizando el Servicio.
+                <strong>Sus contenidos:</strong> Usted conserva todos los derechos de propiedad sobre los dictados de lectura radiográfica, transcripciones e informes que genera utilizando el Servicio.
               </p>
               <p>
                 <strong>Nuestro Servicio:</strong> MediScribe AI, incluyendo su software, algoritmos, diseño, marca y contenido, son propiedad exclusiva de sus desarrolladores y están protegidos por las leyes de propiedad intelectual de Colombia y tratados internacionales.

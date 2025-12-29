@@ -16,9 +16,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "MediScribe AI - Radiología Inteligente Reinventada",
+  title: "MediScribe AI - Dictado Radiológico Inteligente",
   description:
-    "Transforma lecturas de radiografías en informes médicos al instante con 99% de precisión. IA avanzada para radiólogos.",
+    "Convierte dictados de lectura radiográfica o transcripciones de lectura de radiografía en informes médicos al instante con IA avanzada.",
   generator: "v0.app",
   keywords: [
     "radiología IA",
@@ -29,15 +29,15 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "MediScribe AI" }],
   openGraph: {
-    title: "MediScribe AI - Radiología Inteligente Reinventada",
-    description: "Transforma lecturas de radiografías en informes médicos al instante con 99% de precisión.",
+    title: "MediScribe AI - Dictado Radiológico Inteligente",
+    description: "Convierte dictados de lectura radiográfica o transcripciones de lectura de radiografía en informes médicos al instante con IA avanzada.",
     type: "website",
     locale: "es_ES",
   },
   twitter: {
     card: "summary_large_image",
-    title: "MediScribe AI - Radiología Inteligente Reinventada",
-    description: "Transforma lecturas de radiografías en informes médicos al instante con 99% de precisión.",
+    title: "MediScribe AI - Dictado Radiológico Inteligente",
+    description: "Convierte dictados de lectura radiográfica o transcripciones de lectura de radiografía en informes médicos al instante con IA avanzada.",
   },
   icons: {
     icon: [
