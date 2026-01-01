@@ -8,8 +8,8 @@ const appScreens = [
   { image: "/images/screen-2.jpeg", title: "Grabación", description: "Captura de audio" },
   { image: "/images/screen-3.jpeg", title: "Procesamiento", description: "IA en acción" },
   { image: "/images/screen-4.jpeg", title: "Historial", description: "Tus consultas" },
-  { image: "/images/screen-5.jpeg", title: "Configuración", description: "Personalización" },
-  { image: "/images/screen-6.jpeg", title: "Ajustes", description: "Preferencias" },
+  { image: "/images/transcrito.png", title: "Transcripciones", description: "Precisión y claridad" },
+  { image: "/images/informe.png", title: "Informes", description: "Análisis detallados" },
 ]
 
 export function AppShowcase() {
